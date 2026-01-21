@@ -1,7 +1,7 @@
 # Group Information
 
 ## Group Name
-**AAE5303_Team**
+**Team9**
 
 ## Why This Name?
 We chose the name "AAE5303_Team" because it directly reflects our course code (AAE5303), which represents our shared academic journey. The name emphasizes our collaborative spirit and commitment to working together as a unified team throughout this project.
@@ -9,10 +9,10 @@ We chose the name "AAE5303_Team" because it directly reflects our course code (A
 ## Team Members
 
 ### Member 1
-- **Student ID:** 12345678
-- **Name:** John Smith
-- **Brief Introduction:** John is passionate about software engineering and has strong experience in full-stack development. He specializes in backend architecture and database design.
-- **(individual) Assignment 1:** https://github.com/yourname/assignment1
+- **Student ID:** 25108433G
+- **Name:** GAN Yuxin
+- **Brief Introduction:** GAN Yuxin is passionate about robotics and software engineering, with strong experience in ROS 2 development and Python programming. She specializes in environment configuration and system integration. As a new team member, she is enthusiastic and outgoing, and looks forward to collaborating with everyone.
+- **(individual) Assignment 1:** [https://github.com/yourname/assignment1](https://github.com/gyx2003328-dot/PolyU-AAE5303-assignment-1-template/blob/assignment-1/README.md)
 - **(individual) Assignment 2:** https://github.com/yourname/assignment2
 
 ### Member 2
