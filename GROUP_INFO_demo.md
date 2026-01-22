@@ -19,7 +19,7 @@ We chose the name "AAE5303_Team" because it directly reflects our course code (A
 - **Student ID:** 23456789
 - **Name:** Emily Johnson
 - **Brief Introduction:** Emily focuses on frontend development and UI/UX design. She brings creative problem-solving skills and attention to user experience.
-- **(individual) Assignment 1:** https://github.com/yourname/assignment1
+- **(individual) Assignment 1:** https://github.com/HOU Guanhao/assignment1
 - **(individual) Assignment 2:** https://github.com/yourname/assignment2
 
 ### Member 3
