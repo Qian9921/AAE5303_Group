@@ -1,10 +1,10 @@
 # Group Information
 
 ## Group Name
-**AAE5303_Team**
+**Debuggers**
 
 ## Why This Name?
-We chose the name "AAE5303_Team" because it directly reflects our course code (AAE5303), which represents our shared academic journey. The name emphasizes our collaborative spirit and commitment to working together as a unified team throughout this project.
+We don't know how to code at all, but we are expert in debugging!
 
 ## Team Members
 
