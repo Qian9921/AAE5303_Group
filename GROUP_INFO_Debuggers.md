@@ -1,30 +1,29 @@
 # Group Information
 
 ## Group Name
-**AAE5303_Team**
+**Debuggers**
 
 ## Why This Name?
-We chose the name "AAE5303_Team" because it directly reflects our course code (AAE5303), which represents our shared academic journey. The name emphasizes our collaborative spirit and commitment to working together as a unified team throughout this project.
+We don't know how to code at all, but we are expert in debugging!
 
 ## Team Members
 
-### Member 1
-- **Student ID:** 12345678
-- **Name:** John Smith
-- **Brief Introduction:** John is passionate about software engineering and has strong experience in full-stack development. He specializes in backend architecture and database design.
-- **(individual) Assignment 1:** https://github.com/yourname/assignment1
-- **(individual) Assignment 2:** https://github.com/yourname/assignment2
+- **Student ID:** 25049993G
+- **Name:** ZHANG Shuyang
+- **Brief Introduction:** 
+- **(individual) Assignment 1:** https://github.com/AfonsoZhang/assignment1
+- **(individual) Assignment 2:** https://github.com/AfonsoZhang/assignment2
 
 ### Member 2
-- **Student ID:** 23456789
-- **Name:** Emily Johnson
+- **Student ID:** 25127724G
+- **Name:** Han Minghe
 - **Brief Introduction:** Emily focuses on frontend development and UI/UX design. She brings creative problem-solving skills and attention to user experience.
 - **(individual) Assignment 1:** https://github.com/yourname/assignment1
 - **(individual) Assignment 2:** https://github.com/yourname/assignment2
 
 ### Member 3
-- **Student ID:** 34567890
-- **Name:** Michael Chen
+- **Student ID:** 25043804g
+- **Name:** CHANG Jianshuo
 - **Brief Introduction:** Michael has expertise in data analysis and machine learning. He is responsible for algorithm design and performance optimization.
 - **(individual) Assignment 1:** https://github.com/yourname/assignment1
 - **(individual) Assignment 2:** https://github.com/yourname/assignment2
