@@ -16,10 +16,10 @@ The KISS principle in coding (Keep It Simple, Stupid).
 - **(individual) Assignment 2:** https://github.com/yourname/assignment2
 
 ### Member 2
-- **Student ID:** 23456789
-- **Name:** Emily Johnson
-- **Brief Introduction:** Emily focuses on frontend development and UI/UX design. She brings creative problem-solving skills and attention to user experience.
-- **(individual) Assignment 1:** https://github.com/yourname/assignment1
+- **Student ID:** 25044023G
+- **Name:** ZHANG Yuhao
+- **Brief Introduction:** Hardware EDA design by JiaLiChuang, C language programming use in STM32.
+- **(individual) Assignment 1:** https://github.com/SB213wcsndm/PolyU-AAE5303-assignment-1-template.git
 - **(individual) Assignment 2:** https://github.com/yourname/assignment2
 
 ### Member 3
