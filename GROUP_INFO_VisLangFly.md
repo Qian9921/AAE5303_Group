@@ -13,7 +13,7 @@ We named it "VisLangFly" because it intuitively integrates the three core elemen
 - **Name:** Zhong Ziyi
 - **Brief Introduction:** John is passionate about software engineering and has strong experience in full-stack development. He specializes in backend architecture and database design.
 - **(individual) Assignment 1:** [https://github.com/yourname/assignment1](https://github.com/everyone-moon/PolyU-AAE5303-assignment-1-template/blob/main/README.md)
-- **(individual) Assignment 2:** https://github.com/yourname/assignment2
+- **(individual) Assignment 2:** [https://github.com/yourname/assignment2](https://github.com/everyone-moon/AAE5303_assignment2_orbslam3/blob/main/README.md#-conclusions)
 
 ### Member 2
 - **Student ID:** 25059382G
