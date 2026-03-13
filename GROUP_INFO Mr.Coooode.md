@@ -16,7 +16,7 @@
 - **Name:** [Wu Xiuyuan]
 - **About Me:** [Study computor from 0,want to learn everything about this]
 - **(individual) Assignment 1:** [https://github.com/Destry520/assignment1/blob/main/README.md]
-- **(individual) Assignment 2:** [[https://github.com/yourname/assignment2]
+- **(individual) Assignment 2:** [https://github.com/Destry520/AAE5303_assignment2bslam3_demo-.git]
 
 ### Member 3
 - **Student ID:** [25097041G]
