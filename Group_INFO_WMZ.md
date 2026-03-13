@@ -20,7 +20,7 @@ The KISS principle in coding (Keep It Simple, Stupid).
 - **Name:** ZHANG Yuhao
 - **Brief Introduction:** Hardware EDA design by JiaLiChuang, C language programming use in STM32.
 - **(individual) Assignment 1:** https://github.com/SB213wcsndm/PolyU-AAE5303-assignment-1-template.git
-- **(individual) Assignment 2:** https://github.com/yourname/assignment2
+- **(individual) Assignment 2:** https://github.com/Qian9921/AAE5303_assignment2_orbslam3_demo-.git
 
 ### Member 3
 - **Student ID:** 25128392G
