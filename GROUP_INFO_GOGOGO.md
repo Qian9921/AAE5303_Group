@@ -35,7 +35,7 @@ Data never rests, and neither do we.
 - **Brief Introduction:** GAN Yuxin is a cheerful and outgoing girl who is very passionate about this course and always happy to work with everyone in group projects.
 - **(individual) Assignment 1:** [https://github.com/GAN_Yuxin/assignment1](https://github.com/gyx2003328-dot/PolyU-AAE5303-assignment-1-template/blob/assignment-1/README.md)
 - **(individual) Assignment 2:** [https://github.com/GAN_Yuxin/assignment2](https://github.com/gyx2003328-dot/AAE5303_assignment2)
-- **(individual) Reflection Report:**
+- **(individual) Reflection Report:** [https://github.com/GAN_Yuxin/Reflection_Report](https://github.com/joyziyan678/AAE5303_Reflection_Report) 
 
 ### Member 3
 - **Student ID:** 25116049G
@@ -53,5 +53,5 @@ Data never rests, and neither do we.
 
 ---
 
-*Last Updated: [11/04/2026]*
+*Last Updated: [21/04/2026]*
 
