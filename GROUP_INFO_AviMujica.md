@@ -24,6 +24,7 @@ Emotions may be unstable, but the system remains under control.
 - **Brief Introduction:** Haoran focuses on visual perception and tracking, with particular interest in vision-based target tracking and state estimation for aerial systems.
 - **(individual) Assignment 1:** https://github.com/BHBAllen/PolyU-AAE5303-assignment-1-template
 - **(individual) Assignment 2:** https://github.com/BHBAllen/AAE5303_assignment2_orbslam3_demo-
+- **Reflection Report:** https://github.com/BHBAllen/AAE5303-report
 
 ### Member 2
 - **Student ID:** 25043507G
@@ -31,6 +32,7 @@ Emotions may be unstable, but the system remains under control.
 - **Brief Introduction:** Jiaming specializes in control theory, concentrating on system stability, robustness, and closed-loop control design for low-altitude aerial vehicles.
 - **(individual) Assignment 1:** https://github.com/f1u0rite/assignment1
 - **(individual) Assignment 2:** https://github.com/f1u0rite/assignment2
+- **Reflection Report:** https://github.com/F1u0rite/Reflection_Report
 
 ### Member 3
 - **Student ID:** 25110551G
@@ -38,6 +40,7 @@ Emotions may be unstable, but the system remains under control.
 - **Brief Introduction:** Zhengyang comes from a computer science background, with strengths in algorithms, system implementation, and software-oriented problem solving.
 - **(individual) Assignment 1:** https://github.com/billyTryToCode/assignment1
 - **(individual) Assignment 2:** https://github.com/billyTryToCode/assignment2
+- **Reflection Report:** https://github.com/billyTryToCode/AAE5303_Reflection_Report
 
 ## Group Projects
 - **(group) Final project:** https://github.com/F1u0rite/SGMF-Nav
