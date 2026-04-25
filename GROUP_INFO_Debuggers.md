@@ -21,6 +21,7 @@ We don't know coding at all, but we are expert in debugging!!!
 - **Brief Introduction:** Emily focuses on frontend development and UI/UX design. She brings creative problem-solving skills and attention to user experience.
 - **(individual) Assignment 1:** https://github.com/yyslyd/PolyU-AAE5303-assignment-1
 - **(individual) Assignment 2:** https://github.com/yyslyd/assignment2
+- Reflection Report: https://github.com/yyslyd/Reflection-Report-
 
 ### Member 3
 - **Student ID:** 25043804G
