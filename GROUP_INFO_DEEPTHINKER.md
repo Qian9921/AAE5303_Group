@@ -27,6 +27,7 @@
 - **About Me:** [Early to bed and early to rise. ]
 - **(individual) Assignment 1:** [https://github.com/xinyan-web/xinyan-SHEN.git]
 - **(individual) Assignment 2:** [https://github.com/xinyan-web/Shenxinyan-assignment2_orbslam3_demo-]
+- **(individual) Reflection report:** [https://github.com/xinyan-web/AAE5303_Reflection_Report]
 
 ## Group Projects
 - **(group) Final project:** https://github.com/polyu25100453g/AAE5303_Group
