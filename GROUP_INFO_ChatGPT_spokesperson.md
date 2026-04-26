@@ -22,6 +22,7 @@ We chose **ChatGPT_spokesperson** because we do not understand this course and a
 - **Brief Introduction:** Daily routine is talking with ChatGPT. Mainly responsible for the system's UI/frontend and user interaction, a language artist, and the man who understands ChatGPT's inner thoughts the most.
 - **(individual) Assignment 1:** <https://github.com/taiwanhaitong-crypto/Assignment-1>
 - **(individual) Assignment 2:** <https://github.com/taiwanhaitong-crypto/Assignment-2>
+- **Reflection Report:** <https://github.com/Evelyn4k4k/AAE5303-ChatGPT_spokesperson-group-Project/blob/taiwanhaitong-segmentation/reports/reflection_report_ght05.md>
 
 ### 📣 Member 2 (The sugar daddy of ChatGPT)
 - **Student ID:** [25041983g]
@@ -43,8 +44,8 @@ We chose **ChatGPT_spokesperson** because we do not understand this course and a
 ## 📦 Group Projects
 - **(group) Final project:** [https://github.com/Evelyn4k4k/AAE5303-ChatGPT_spokesperson-group-Project]
 - **VO:**:[https://github.com/Evelyn4k4k/uav-perception-pipeline]
-- **Opensplating:** https://github.com/yourgroup/opensplating
-- **U-net:** https://github.com/yourgroup/u-net
+- **Opensplating:** https://github.com/Evelyn4k4k/AAE5303-ChatGPT_spokesperson-group-Project/tree/main/modules/reconstruction
+- **U-net:** https://github.com/Evelyn4k4k/AAE5303-ChatGPT_spokesperson-group-Project/tree/main/modules/segmentation
 - **slides**[https://docs.google.com/presentation/d/1gBrMH_M-B5DT72-EeugAhk7c-AxHKVQDEug5OhWHyvE/edit?slide=id.p1#slide=id.p1]
 
 ---
