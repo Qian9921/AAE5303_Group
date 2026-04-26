@@ -26,11 +26,11 @@ Carrot🥕? Tissue🧻? Zheng Bang😊!
 - **Brief Introduction** 
 - **(individual) Assignment 1:** [https://github.com/Chaoxixiong/PolyU-AAE5303-assignment-1-template-README.md]
 - **(individual) Assignment 2:** [https://github.com/Chaoxixiong/PolyU-AAE5303-assignment-2]
-- **(individual) Reflection Report:** []
+- **(individual) Reflection Report:** [https://github.com/wswjackie2003-hub/AAE5303_Relfection_Report]
 
 ## Group Projects
 - **(group) Final project:** [https://github.com/cclinko/AAE5303_final_project]
 - **VO:** [https://github.com/YuxinYang2002/AAE5303_group_project_VO]
-- **Opensplating:** [https://github.com/yourgroup/opensplating]
+- **Opensplating:** [https://github.com/wswjackie2003-hub/AAE5303_opensplating]
 - **U-net:** [https://github.com/cclinko/AAE5303_group_project_u-net]
 - **slides：** [https://github.com/YuxinYang2002/AAE5303_group_slide]
