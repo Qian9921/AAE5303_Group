@@ -31,6 +31,7 @@ Error:Success
 - **Brief Introduction:** Ruipu has just started learning programming, is very interested in this course, and is confident in being able to master it successfully.
 - **(individual) Assignment 1:** https://github.com/LancerPu/PolyU-AAE5303-assignment-1-template/blob/main/assi1.md
 - **(individual) Assignment 2:** https://github.com/LancerPu/AAE5303_assignment2_orbslam3_demo-
+- **(individual) Reflection Report:**https://github.com/LancerPu/Reflection-Report
 ### ❌ Member 3
 - **Student ID:** 25106011G
 - **Name:** TONG Yuru
