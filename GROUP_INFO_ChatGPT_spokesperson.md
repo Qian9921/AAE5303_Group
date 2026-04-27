@@ -39,6 +39,7 @@ We chose **ChatGPT_spokesperson** because we do not understand this course and a
 
 - **(individual) Assignment 1:** <https://github.com/Evelyn4k4k/PolyU-AAE5303-assignment-1-template>
 - **(individual) Assignment 2:** <https://github.com/Evelyn4k4k/AAE5303_assignment2_orbslam3_demo->
+- **Reflection report:** <https://docs.google.com/document/d/1JH9o8XIO2ZJWLoTspU3Ejh1zFKWdLz_osXAhLII5TqA/edit?tab=t.0>
 
 ---
 
