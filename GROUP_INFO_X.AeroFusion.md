@@ -1,4 +1,4 @@
-# Group Information
+<img width="2174" height="1136" alt="image" src="https://github.com/user-attachments/assets/26c85e2a-0ea0-443a-8b52-e26a3a808a15" /># Group Information
 
 ## Group Name
 **X‑AeroFusion Group**
@@ -14,6 +14,7 @@ We chose the name "X‑AeroFusion Group" because we are a student team focusing 
 - **Brief Introduction:** Luo Daixun is passionate about exploring the fields of UAVs and large models. He excels at turning his creative ideas into reality through coding, and aspires to participate in various projects to further explore his personal interests and realize his self-worth in practice.
 - **(individual) Assignment 1:** https://github.com/Planner-dx/Assignment1
 - **(individual) Assignment 2:** https://github.com/Planner-dx/Assignment2
+- **(individual) Reflection Report:** https://github.com/X-AeroFusion-Group/AAE5303/blob/main/reflection_reports/Reflection_Report_LUO_Daixun_25121137g.docx
 
 ### Member 2
 - **Student ID:** 25049422G
