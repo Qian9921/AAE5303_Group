@@ -13,6 +13,7 @@ Our name represents our journey – we may have joined late, but we always fix t
 - **About Me:** I'm a determined and fast learner, always pushing to improve. I'm excited to collaborate with my teammates and take on new challenges in AAE5303!
 - **(individual) Assignment 1:** [[GitHub repo link](https://github.com/JinZhengzhen/PolyU-AAE5303-assignment-1-template)](#)
 - **(individual) Assignment 2:** [[GitHub repo link](https://github.com/JinZhengzhen/AAE5303_assignment2_orbslam3)](#)
+- **Reflective-Essay:** [https://github.com/JinZhengzhen/AAE5303-Robust-Control-Technology---Reflective-Essay](https://github.com/JinZhengzhen/AAE5303-Robust-Control-Technology---Reflective-Essay)
 - **Photo (Optional):** ![become a pilot](https://github.com/JinZhengzhen/become-a-pilot/issues/1)
 
 ### Member 2
@@ -21,6 +22,7 @@ Our name represents our journey – we may have joined late, but we always fix t
 - **About Me:** I am a 3-week new cursor user and an experienced Doubao chatter, unprofessional but interested in DL, RL etc.
 - **(individual) Assignment 1:** [https://github.com/seaweed-swd/PolyU-AAE5303-assignment-1](#)
 - **(individual) Assignment 2:** [[GitHub repo link](https://github.com/seaweed-swd/Polyu-AAE5303_assignment2_orbslam3/)](#)
+- **Reflective-Essay:** [https://github.com/seaweed-swd/PolyU-AAE5303-Reflection ](https://github.com/seaweed-swd/PolyU-AAE5303-Reflection)
 - **Photo (Optional):** [You can add a photo link or emoji here if you want!]
 
 ### Member 3 
@@ -29,6 +31,7 @@ Our name represents our journey – we may have joined late, but we always fix t
 - **About Me:** Cursoring，Crafting，Coding.
 - **(individual) Assignment 1:** [https://github.com/shentonyan/Answers-for-AAE5303/blob/main/ENVIRONMENT_SETUP_REPORT.md](#)
 - **(individual) Assignment 2:** [[GitHub repo link](https://github.com/shentonyan/AAE5303_assignment2_orbslam3_demo-)](#)
+- **Reflective-Essay:** [https://github.com/seaweed-swd/PolyU-AAE5303-Reflection ](https://github.com/shentonyan/AAE5303_Reflection_Report/blob/main/README.md)
 - **Photo (Optional):** [You can add a photo link or emoji here if you want!]
 
 ## Group Projects
