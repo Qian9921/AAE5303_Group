@@ -29,6 +29,7 @@ We chose **ChatGPT_spokesperson** because we do not understand this course and a
 - **Brief Introduction:** Self-identified ChatGPT’s sugar daddy. Provides ChatGPT with continuous prompts, patience, and late-night attention in exchange for explanations, code, and confidence. 
 - **(individual) Assignment 1:** <https://github.com/wymmust/PolyU-AAE5303-assignment-1>
 - **(individual) Assignment 2:** <https://github.com/wymmust/assignment2>
+- **(individual) Reflection report:** <https://github.com/wymmust/AAE5303_Reflection_Report1>
 
 ### 📣 Member 3 (The human terminal of ChatGPT)
 - **Student ID:** [25060282g]
