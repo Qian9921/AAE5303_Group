@@ -29,6 +29,7 @@ We don't know coding at all, but we are expert in debugging!!!
 - **Brief Introduction:** Jianshuo is an INTP who can write some code, understands data analysis, and is interested in new AI technologies and VLN. He has a lot of things he wants to do, but he's extremely lazy—so he's always mentally whipping himself with a little whip to get moving.
 - **(individual) Assignment 1:** https://github.com/CHANGJianshuo/AAE5303_assignment1
 - **(individual) Assignment 2:** https://github.com/CHANGJianshuo/AAE5303_assignment2
+-  **(individual) Reflection Report:** https://github.com/CHANGJianshuo/AAE5303_Reflection_Report/blob/main/Reflective_Essay_CHANG_Jianshuo.md
 
 ## Group Projects
 - **(group) Final project:** https://github.com/CHANGJianshuo/AAE5303_final_project-Debuggers-
