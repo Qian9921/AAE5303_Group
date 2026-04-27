@@ -22,7 +22,8 @@ We chose **ChatGPT_spokesperson** because we do not understand this course and a
 - **Brief Introduction:** Daily routine is talking with ChatGPT. Mainly responsible for the system's UI/frontend and user interaction, a language artist, and the man who understands ChatGPT's inner thoughts the most.
 - **(individual) Assignment 1:** <https://github.com/taiwanhaitong-crypto/Assignment-1>
 - **(individual) Assignment 2:** <https://github.com/taiwanhaitong-crypto/Assignment-2>
-
+- **Reflection Report:** <https://github.com/Evelyn4k4k/AAE5303-ChatGPT_spokesperson-group-Project/blob/taiwanhaitong-segmentation/reports/reflection_report_ght05.md>
+- 
 ### 📣 Member 2 (The sugar daddy of ChatGPT)
 - **Student ID:** [25041983g]
 - **Name:** [WU Yumeng]
