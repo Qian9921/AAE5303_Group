@@ -46,7 +46,7 @@ We chose **ChatGPT_spokesperson** because we do not understand this course and a
 ## 📦 Group Projects
 - **(group) Final project:** [https://github.com/Evelyn4k4k/AAE5303-ChatGPT_spokesperson-group-Project]
 - **VO:**:[https://github.com/Evelyn4k4k/uav-perception-pipeline]
-- **Opensplating:** https://github.com/yourgroup/opensplating
+- **Opensplating:** https://github.com/Evelyn4k4k/AAE5303-ChatGPT_spokesperson-group-Project/tree/main/modules/reconstruction
 - **U-net:** https://github.com/Evelyn4k4k/AAE5303-ChatGPT_spokesperson-group-Project/tree/main/modules/segmentation
 - **slides**[https://docs.google.com/presentation/d/1gBrMH_M-B5DT72-EeugAhk7c-AxHKVQDEug5OhWHyvE/edit?slide=id.p1#slide=id.p1]
 
